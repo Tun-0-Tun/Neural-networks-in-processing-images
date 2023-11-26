@@ -8,3 +8,6 @@ Practical assignments for the course Neural networks in processing images
 
 При конвертации в pdf едут все стили, так что лучше просматривать код в фомате ноутбука
 
+
+Сылка на папку с файлами моделей: https://drive.google.com/drive/folders/1GY34xZHNQvnFl60VNZTBjTJxRNIGDe6y?usp=sharing
+Ссылка на папку с датасетами: https://drive.google.com/drive/folders/1kRVt1Saa0SkSvVpAP3Mudydsacp5gOur?usp=sharing
