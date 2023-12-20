@@ -1,4 +1,5 @@
 # Neural-networks-in-processing-images
+## Задание 1
 Practical assignments for the course Neural networks in processing images
 Задание было решено при помощи transfer learning-а, в качестве базовой моделы была выбрана resnet50 с 7мью замороженными первыми слоями
 
@@ -11,3 +12,9 @@ Practical assignments for the course Neural networks in processing images
 
 Сылка на папку с файлами моделей: https://drive.google.com/drive/folders/1GY34xZHNQvnFl60VNZTBjTJxRNIGDe6y?usp=sharing
 Ссылка на папку с датасетами: https://drive.google.com/drive/folders/1kRVt1Saa0SkSvVpAP3Mudydsacp5gOur?usp=sharing
+
+## Задание 2
+Файл: tracking-tennis-ball-on-video.ipynb
+Задача: Детекция мяча на видео теннисного матча. Задание было сделано на основе модели VGG16 с усовершенствованиями.
+Из таблицы выше были выполнены дополнительные задания 1, 2, 3, 5
+
